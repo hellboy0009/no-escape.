@@ -11,7 +11,7 @@ body {
 }
 
 header img {
-  width: 50%;
+  width: 60%;
 }
 
 a {
@@ -28,7 +28,6 @@ ul {
   justify-content: space-around;
   align-items: center;
   font-size: x-large;
-  background-color: #f96305;
 }
 
 h1 {
