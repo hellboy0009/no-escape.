@@ -11,7 +11,7 @@ body {
 }
 
 header img {
-  width: 10%;
+  width: 50%;
 }
 
 a {
@@ -21,22 +21,44 @@ a {
 }
 
 ul {
-  margin: 10px;
+  margin: 20px;
   padding: 10px;
   list-style: none;
   display: flex;
   justify-content: space-around;
   align-items: center;
   font-size: x-large;
+  background-color: #f96305;
 }
 
 h1 {
   display: flex;
   justify-content: space-around;
+  list-style: none;
+  margin: 20px;
+  padding: 20px;
+}
+
+p {
+   display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 25px;
 }
 
 .logo {
   display: flex;
+}
+
+.videos {
+  display: flex;
+  justify-content: space-around;
+}
+
+.mi-vi {
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
 
 
@@ -126,7 +148,6 @@ body {
 /* Footer legal */
 
 .ft-legal-list {
-  width: 100%;
   display: flex;
   flex-wrap: wrap;
 }
